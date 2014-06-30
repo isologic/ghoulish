@@ -1,28 +1,6 @@
-# [Spectral](https://github.com/Implemint/spectral.git)
+[ghoulish](https://github.com/isologic/ghoulish.git)
+========
 
-Spectral is a very simple starter theme for the [Ghost](http://ghost.org) blogging platform. It utilizes [Grunt](http://gruntjs.com) for [SASS](http://sass-lang.com) compiling and [LiveReloading](http://livereload.com).
+Starter theme for the [Ghost](http://ghost.org) blogging platform integrated with [Gumby Framework](http://gumbyframework.com) (v2.6), modified to utilize only its semantic mixin functions. Original core starter theme files forked from [loremipson/spectral](https://github.com/loremipson/spectral), a perfect combination of simplicity and extensibility for those looking to develop their own framework for Ghost with the head start of a pre-existing core scaffolding.
 
-## Getting started
-
-Spectrals goal is to keep it simple and make no assumptions about the way you code and set up your themes. Right now, Grunt is compiling only SASS files, but will add the option for LESS soon.
-
-## Installation
-
-1. Clone this repository down to your Ghost themes folder.
-2. There is no second step, it was that easy.
-
-Currently Ghost needs to be restarted for new themes to show up, so make sure you have done that step if Spectral isn't showing up in your theme option on the settings page.
-
-## Development
-
-Once Spectral is cloned down, change into the directory and run:
-
-    npm install
-
-You should be familiiar with this, assuming you installed Ghost. Once your node modules have finished, run:
-
-    grunt
-    
-Grunt will start "watching" your files for changes.
-
-By default, Grunt watches for SASS files under the `assets/sass` directory with the .sass extension. If you'd like to change that, you can modify the `Gruntfile.js` accordingly. Any SASS file prefixed with an underscore won't be compiled as a separate .css file, so you can create and import them, making it more modular.
+[Spectral](https://github.com/loremipson/spectral) is a very simple starter theme for Ghost that utilizes [Grunt](http://gruntjs.com) for [SASS](http://sass-lang.com) compiling and [LiveReloading](http://livereload.com). Ghoulish takes it a step further by extending SASS with [Compass](http://compass-style.com), and integrating all of the fantastic core components of the Gumby Framework.
