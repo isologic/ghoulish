@@ -1,0 +1,21 @@
+{
+  "name": "ghoulish",
+  "version": "0.1.0",
+  "description": "",
+  "author": {
+        "name": "John Polinski",
+        "email": "liquid.knives@gmail.com"
+  },
+  "github": "https://github.com/isologic/ghoulish",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isologic/ghoulish.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-sass": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.1",
+    "matchdep": "~0.1.2"
+  }
+}
