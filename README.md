@@ -1,4 +1,4 @@
-[ghoulish](https://github.com/isologic/ghoulish.git)
+[Nightmare](https://github.com/isologic/ghoulish.git)
 ========
 
 Starter theme for the [Ghost](http://ghost.org) blogging platform. Original core starter theme files forked from [loremipson/spectral](https://github.com/loremipson/spectral). Basic handlebars scaffolding appended with partials & more modular semantics.
