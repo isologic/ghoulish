@@ -1,15 +1,15 @@
 {
-  "name": "ghoulish",
-  "version": "0.1.0",
+  "name": "nightmare",
+  "version": "0.1.2",
   "description": "Ghost starter theme with Sass Compass and Grunt",
   "author": {
         "name": "John Polinski",
-        "email": "liquid.knives@gmail.com"
+        "email": "john@designwavestudio.com"
   },
-  "github": "https://github.com/isologic/ghoulish",
+  "github": "https://github.com/isologic/nightmare",
   "repository": {
     "type": "git",
-    "url": "git://github.com/isologic/ghoulish.git"
+    "url": "git://@github.com/isologic/nightmare.git"
   },
   "dependencies": {},
   "devDependencies": {
